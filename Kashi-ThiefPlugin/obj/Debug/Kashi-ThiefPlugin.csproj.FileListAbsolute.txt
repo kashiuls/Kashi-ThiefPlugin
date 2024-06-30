@@ -1,0 +1,16 @@
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Kashi-ThiefPlugin.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Kashi-ThiefPlugin.pdb
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Assembly-CSharp.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Rocket.API.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Rocket.Core.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\Rocket.Unturned.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\UnityEngine.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\obj\Debug\Kashi-ThiefPlugin.csproj.AssemblyReference.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\obj\Debug\Kashi-ThiefPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\obj\Debug\Kashi-Th.2F286EAE.Up2Date
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\obj\Debug\Kashi-ThiefPlugin.dll
+C:\Users\Barış Alper Yılmaz\source\repos\Kashi-ThiefPlugin\Kashi-ThiefPlugin\obj\Debug\Kashi-ThiefPlugin.pdb
