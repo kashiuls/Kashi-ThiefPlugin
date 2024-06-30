@@ -75,7 +75,7 @@ public class KashiThiefPlugin : RocketPlugin<KashiThiefConfiguration>
     public void RegisterTheft(UnturnedPlayer thief, UnturnedPlayer target, bool isLeftPocket)
     {
         string pocket = isLeftPocket ? "sol" : "sağ";
-        UnturnedChat.Say(thief, $"{GetPrefix()} {target.CharacterName} adlı allahsızın {pocket} cebini karıştırıyorsun sabırlı ol...", PrefixColor);
+        UnturnedChat.Say(thief, $"{GetPrefix()} {target.CharacterName} adlı vatandaşın {pocket} cebini karıştırıyorsun sabırlı ol...", PrefixColor);
 
         if (target.Inventory == null || !HasItems(target))
         {
